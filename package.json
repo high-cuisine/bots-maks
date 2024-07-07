@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airgram": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "input": "^1.0.1",
+    "nodemon": "^3.1.4",
+    "tdlib": "^0.0.0-alpha.0",
+    "telegram": "^2.22.2"
+  }
+}
